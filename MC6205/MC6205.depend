@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1704743296 source:c:\users\ma france\desktop\Новая папка (3)\КЭ-107\mc6205\main.cpp
+	<windows.h>
+	"Serial.cpp"
+	"MS6205.h"
+	"MS6205.cpp"
+
+1704743525 c:\users\ma france\desktop\Новая папка (3)\КЭ-107\mc6205\serial.cpp
+	<iostream>
+
+1704742609 c:\users\ma france\desktop\Новая папка (3)\КЭ-107\mc6205\ms6205.h
+
+1704744024 c:\users\ma france\desktop\Новая папка (3)\КЭ-107\mc6205\ms6205.cpp
+	"MS6205.h"
+
